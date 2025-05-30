@@ -1,6 +1,6 @@
 # 🎡 Lucky Wheel App
 
-A fun and interactive **Lucky Wheel App** built entirely with **Jetpack Compose**! Spin the wheel every 3 hours to win exciting rewards. Once the wheel stops, enjoy a satisfying chest animation as your winnings are revealed.
+A fun and interactive **Lucky Wheel App** built with **Jetpack Compose** and **Lottie Animation**! Spin the wheel every 3 hours to win exciting rewards. Once the wheel stops, enjoy a satisfying chest animation as your winnings are revealed.
 
 ---
 
